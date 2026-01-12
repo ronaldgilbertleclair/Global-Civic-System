@@ -15,7 +15,7 @@ This repository is intended for examination, critique, and reference.
 
 ### Charter
 - **Canonical Charter (PDF — authoritative)**
-  - Global_Civic_System_Charter_v2.0_FINAL.pdf
+  - https://github.com/ronaldgilbertleclair/Global-Civic-System/releases/latest
 
 ### Executive Brief
 - **Executive Brief (PDF — non-authoritative)**
