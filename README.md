@@ -21,6 +21,9 @@ This repository is intended for examination, critique, and reference.
 - **Executive Brief (PDF — non-authoritative)**
   - Global_Civic_System_Executive_Brief_v2.0_with_Cover.pdf
 
+## Essays
+- [Why Obvious Solutions Are Hard to Adopt](essays/Why_Obvious_Solutions_Are_Hard_to_Adopt.md)
+
 ---
 
 ## Status and Scope
