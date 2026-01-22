@@ -1,8 +1,15 @@
 # Global Civic System
 
-This repository contains a proposed charter exploring how humanity might think together about shared systems in the modern age.
+This repository contains the current canonical version of the Global Civic System Charter.
 
-## Start Here
-- 📘 Charter: /charter/Global-Civic-System-Charter.md
+## Read the Charter
 
-This document is offered for consideration, not instruction.
+📘 **Current Charter**  
+/charter/Global-Civic-System-Charter.md
+
+## About
+
+The charter is offered for consideration and reflection.  
+It does not prescribe implementation or enforcement.
+
+Older drafts remain in the repository history for reference.
