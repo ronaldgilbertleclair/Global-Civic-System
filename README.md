@@ -43,4 +43,7 @@ If you are new, begin with one of the following:
 ---
 
 ## Structure of This Repository
-
+- charter → canonical documents
+- essays → public-facing reflections
+- briefs → summaries and outreach material
+- archive → historical drafts and prior work
