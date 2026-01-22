@@ -14,7 +14,8 @@ Agreement is not required.
 If you are new, begin with one of the following:
 
 - 📘 **The Charter**  
-  `charter/Global-Civic-System-Charter.md`  
+[Global Civic System Charter](charter/Global-Civic-System-Charter.md)
+
   A formal document defining the conditions under which any shared system would remain legitimate, voluntary, and dignified.
 
 - 📝 **A Shared Consideration**  
