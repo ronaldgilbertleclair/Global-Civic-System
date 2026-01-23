@@ -43,7 +43,11 @@ If you are new, begin with one of the following:
 ## Reflective Essays
 
 - 🧠 [Why Obvious Solutions Are Hard to Adopt](essays/Why-Obvious-Solutions-Are-Hard-to-Adopt.md)  
-  A reflective essay examining why problems that appear solvable persist — and how fear, coordination, and institutional inertia shape collective behavior.
+  Examines why problems that appear solvable persist despite technical capability.
+
+- 🌍 [How Global Consideration Becomes Possible](essays/How-Global-Consideration-Becomes-Possible.md)  
+  Explores how modern communication enables shared awareness — a prerequisite for collective reflection at planetary scale.
+
 
 ---
 
