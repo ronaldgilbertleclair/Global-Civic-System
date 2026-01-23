@@ -19,7 +19,8 @@ If you are new, begin with one of the following:
 - 📖 [Plain-Language Overview](essays/Plain-Language-Overview.md)  
   A concise explanation of the idea without formal language.
 
-- 📘 **The Charter** [Global Civic System Charter](charter/Global-Civic-System-Charter.md)  
+- 📘 **The Charter**  
+  [Global Civic System Charter](charter/Global-Civic-System-Charter.md)  
   A formal document defining the conditions under which any shared system would remain legitimate, voluntary, and dignified.
 
 ---
@@ -34,6 +35,13 @@ If you are new, begin with one of the following:
 
 - ✍️ [Author’s Note](essays/Author-Note.md)  
   Context on why this work exists and the posture from which it is offered.
+
+---
+
+## Reflective Essays
+
+- 🧠 [Why Obvious Solutions Are Hard to Adopt](essays/Why-Obvious-Solutions-Are-Hard-to-Adopt.md)  
+  A reflective essay examining why problems that appear solvable persist — and how fear, coordination, and institutional inertia shape collective behavior.
 
 ---
 
@@ -63,9 +71,9 @@ If you are new, begin with one of the following:
 
 ## Repository Structure
 
-- /charter → canonical documents
-- /essays → public-facing reflections and explanations
-- /analysis → analytical and research-based papers
-- /briefs → summaries and outreach material
-- /social → guidance on sharing and social context
-- /archive → historical drafts and prior work
+- `/charter` → canonical documents  
+- `/essays` → public-facing reflections and explanations  
+- `/analysis` → analytical and research-based papers  
+- `/briefs` → summaries and outreach material  
+- `/social` → guidance on sharing and social context  
+- `/archive` → historical drafts and prior work
