@@ -53,8 +53,7 @@ If you are new, begin with one of the following:
 
 ## Analysis and Research
 
-- 📊 **Automation, Displacement, and Transition Efficiency**  
-  [Analytical Whitepaper](analysis/Automation-Displacement-and-Transition-Efficiency.md)  
+- 📊 [Automation, Displacement, and Transition Efficiency](analysis/Automation-Displacement-and-Transition-Efficiency.md)  
 
   An analytical exploration of how large-scale automation and workforce displacement could be understood not as failure, but as a transitional phase — and how coordinated systems might improve the efficiency, fairness, and stability of that transition.
 
