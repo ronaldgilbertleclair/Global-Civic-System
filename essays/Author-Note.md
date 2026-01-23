@@ -18,4 +18,4 @@ If they do not, they may be set aside without consequence.
 
 This work exists as an invitation to thought — nothing more.
 
-— Ronald Gilbert Leclair
+Written by Ronald Gilbert Leclair as a long-form reflection on collective choice, dignity, and coordination in the modern age.
