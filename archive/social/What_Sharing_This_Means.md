@@ -7,11 +7,11 @@ It’s not an attempt to persuade or recruit.
 It’s an invitation to notice something together.
 
 What’s being shared is a simple idea with enormous implications:  
-that humanity might be capable of agreeing—by choice—on how we move forward together as a planet.
+that humanity might be capable of agreeing — by choice — on how we move forward together as a planet.
 
 Not as a government.  
 Not as a law.  
-Not through force.  
+Not through force.
 
 But as a shared set of boundaries that protect freedom, dignity, and equality if large-scale cooperation is ever chosen.
 
@@ -32,7 +32,8 @@ It does not ask them to give up anything.
 It asks only that we acknowledge the possibility that cooperation at planetary scale could be guided by shared principles rather than domination or fear.
 
 If nothing comes of it, nothing is lost.  
-If something does, it will have started with awareness—not pressure.
+If something does, it will have started with awareness — not pressure.
 
-Sharing this is simply a way of saying:  
-“This question might matter.”
+Sharing this is simply a way of saying:
+
+**“This question might matter.”**
