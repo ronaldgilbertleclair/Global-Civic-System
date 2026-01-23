@@ -1,5 +1,7 @@
 # Global Civic System
 
+This work does not advocate change; it invites consideration.
+
 This repository contains a collection of documents exploring whether humanity might benefit from thinking together about how shared life could be organized in the modern age.
 
 The work does not propose enforcement, implementation, or immediate change. It exists to support reflection, consideration, and dialogue — made possible by global communication technologies that did not previously exist.
